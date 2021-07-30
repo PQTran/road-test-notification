@@ -1,0 +1,11 @@
+{
+  "name": "road-test-notification",
+  "version": "1.0.0",
+  "description": "Receive notifications for available road test slots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
